@@ -1,0 +1,310 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DescriptionWithLinks /> should match the snapshot 1`] = `
+initialize {
+  "0": Object {
+    "attribs": Object {},
+    "children": Array [
+      Object {
+        "attribs": Object {},
+        "children": Array [
+          Object {
+            "data": "I often visit ",
+            "next": Object {
+              "attribs": Object {
+                "href": "https://www.bbc.co.uk",
+              },
+              "children": Array [
+                Object {
+                  "data": "the BBC website",
+                  "next": null,
+                  "parent": [Circular],
+                  "prev": null,
+                  "type": "text",
+                },
+              ],
+              "name": "a",
+              "next": Object {
+                "data": ", especially the ",
+                "next": Object {
+                  "attribs": Object {
+                    "href": "https://www.bbc.co.uk/weather",
+                  },
+                  "children": Array [
+                    Object {
+                      "data": "weather",
+                      "next": null,
+                      "parent": [Circular],
+                      "prev": null,
+                      "type": "text",
+                    },
+                  ],
+                  "name": "a",
+                  "next": Object {
+                    "data": " section",
+                    "next": null,
+                    "parent": [Circular],
+                    "prev": [Circular],
+                    "type": "text",
+                  },
+                  "parent": [Circular],
+                  "prev": [Circular],
+                  "type": "tag",
+                },
+                "parent": [Circular],
+                "prev": [Circular],
+                "type": "text",
+              },
+              "parent": [Circular],
+              "prev": [Circular],
+              "type": "tag",
+            },
+            "parent": [Circular],
+            "prev": null,
+            "type": "text",
+          },
+          Object {
+            "attribs": Object {
+              "href": "https://www.bbc.co.uk",
+            },
+            "children": Array [
+              Object {
+                "data": "the BBC website",
+                "next": null,
+                "parent": [Circular],
+                "prev": null,
+                "type": "text",
+              },
+            ],
+            "name": "a",
+            "next": Object {
+              "data": ", especially the ",
+              "next": Object {
+                "attribs": Object {
+                  "href": "https://www.bbc.co.uk/weather",
+                },
+                "children": Array [
+                  Object {
+                    "data": "weather",
+                    "next": null,
+                    "parent": [Circular],
+                    "prev": null,
+                    "type": "text",
+                  },
+                ],
+                "name": "a",
+                "next": Object {
+                  "data": " section",
+                  "next": null,
+                  "parent": [Circular],
+                  "prev": [Circular],
+                  "type": "text",
+                },
+                "parent": [Circular],
+                "prev": [Circular],
+                "type": "tag",
+              },
+              "parent": [Circular],
+              "prev": [Circular],
+              "type": "text",
+            },
+            "parent": [Circular],
+            "prev": Object {
+              "data": "I often visit ",
+              "next": [Circular],
+              "parent": [Circular],
+              "prev": null,
+              "type": "text",
+            },
+            "type": "tag",
+          },
+          Object {
+            "data": ", especially the ",
+            "next": Object {
+              "attribs": Object {
+                "href": "https://www.bbc.co.uk/weather",
+              },
+              "children": Array [
+                Object {
+                  "data": "weather",
+                  "next": null,
+                  "parent": [Circular],
+                  "prev": null,
+                  "type": "text",
+                },
+              ],
+              "name": "a",
+              "next": Object {
+                "data": " section",
+                "next": null,
+                "parent": [Circular],
+                "prev": [Circular],
+                "type": "text",
+              },
+              "parent": [Circular],
+              "prev": [Circular],
+              "type": "tag",
+            },
+            "parent": [Circular],
+            "prev": Object {
+              "attribs": Object {
+                "href": "https://www.bbc.co.uk",
+              },
+              "children": Array [
+                Object {
+                  "data": "the BBC website",
+                  "next": null,
+                  "parent": [Circular],
+                  "prev": null,
+                  "type": "text",
+                },
+              ],
+              "name": "a",
+              "next": [Circular],
+              "parent": [Circular],
+              "prev": Object {
+                "data": "I often visit ",
+                "next": [Circular],
+                "parent": [Circular],
+                "prev": null,
+                "type": "text",
+              },
+              "type": "tag",
+            },
+            "type": "text",
+          },
+          Object {
+            "attribs": Object {
+              "href": "https://www.bbc.co.uk/weather",
+            },
+            "children": Array [
+              Object {
+                "data": "weather",
+                "next": null,
+                "parent": [Circular],
+                "prev": null,
+                "type": "text",
+              },
+            ],
+            "name": "a",
+            "next": Object {
+              "data": " section",
+              "next": null,
+              "parent": [Circular],
+              "prev": [Circular],
+              "type": "text",
+            },
+            "parent": [Circular],
+            "prev": Object {
+              "data": ", especially the ",
+              "next": [Circular],
+              "parent": [Circular],
+              "prev": Object {
+                "attribs": Object {
+                  "href": "https://www.bbc.co.uk",
+                },
+                "children": Array [
+                  Object {
+                    "data": "the BBC website",
+                    "next": null,
+                    "parent": [Circular],
+                    "prev": null,
+                    "type": "text",
+                  },
+                ],
+                "name": "a",
+                "next": [Circular],
+                "parent": [Circular],
+                "prev": Object {
+                  "data": "I often visit ",
+                  "next": [Circular],
+                  "parent": [Circular],
+                  "prev": null,
+                  "type": "text",
+                },
+                "type": "tag",
+              },
+              "type": "text",
+            },
+            "type": "tag",
+          },
+          Object {
+            "data": " section",
+            "next": null,
+            "parent": [Circular],
+            "prev": Object {
+              "attribs": Object {
+                "href": "https://www.bbc.co.uk/weather",
+              },
+              "children": Array [
+                Object {
+                  "data": "weather",
+                  "next": null,
+                  "parent": [Circular],
+                  "prev": null,
+                  "type": "text",
+                },
+              ],
+              "name": "a",
+              "next": [Circular],
+              "parent": [Circular],
+              "prev": Object {
+                "data": ", especially the ",
+                "next": [Circular],
+                "parent": [Circular],
+                "prev": Object {
+                  "attribs": Object {
+                    "href": "https://www.bbc.co.uk",
+                  },
+                  "children": Array [
+                    Object {
+                      "data": "the BBC website",
+                      "next": null,
+                      "parent": [Circular],
+                      "prev": null,
+                      "type": "text",
+                    },
+                  ],
+                  "name": "a",
+                  "next": [Circular],
+                  "parent": [Circular],
+                  "prev": Object {
+                    "data": "I often visit ",
+                    "next": [Circular],
+                    "parent": [Circular],
+                    "prev": null,
+                    "type": "text",
+                  },
+                  "type": "tag",
+                },
+                "type": "text",
+              },
+              "type": "tag",
+            },
+            "type": "text",
+          },
+        ],
+        "name": "div",
+        "next": null,
+        "parent": null,
+        "prev": null,
+        "root": [Circular],
+        "type": "tag",
+      },
+    ],
+    "name": "root",
+    "next": null,
+    "parent": null,
+    "prev": null,
+    "type": "root",
+  },
+  "_root": [Circular],
+  "length": 1,
+  "options": Object {
+    "decodeEntities": true,
+    "normalizeWhitespace": false,
+    "withDomLvl1": true,
+    "xmlMode": false,
+  },
+}
+`;

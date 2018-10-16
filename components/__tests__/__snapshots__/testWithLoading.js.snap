@@ -1,0 +1,124 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DescriptionWithLinks /> should render the error message when the error flag is true 1`] = `
+initialize {
+  "0": Object {
+    "attribs": Object {},
+    "children": Array [
+      Object {
+        "attribs": Object {},
+        "children": Array [
+          Object {
+            "data": "Error!",
+            "next": null,
+            "parent": [Circular],
+            "prev": null,
+            "type": "text",
+          },
+        ],
+        "name": "div",
+        "next": null,
+        "parent": null,
+        "prev": null,
+        "root": [Circular],
+        "type": "tag",
+      },
+    ],
+    "name": "root",
+    "next": null,
+    "parent": null,
+    "prev": null,
+    "type": "root",
+  },
+  "_root": [Circular],
+  "length": 1,
+  "options": Object {
+    "decodeEntities": true,
+    "normalizeWhitespace": false,
+    "withDomLvl1": true,
+    "xmlMode": false,
+  },
+}
+`;
+
+exports[`<DescriptionWithLinks /> should render the loading message when the loading flag is true 1`] = `
+initialize {
+  "0": Object {
+    "attribs": Object {},
+    "children": Array [
+      Object {
+        "attribs": Object {},
+        "children": Array [
+          Object {
+            "data": "Loading...",
+            "next": null,
+            "parent": [Circular],
+            "prev": null,
+            "type": "text",
+          },
+        ],
+        "name": "div",
+        "next": null,
+        "parent": null,
+        "prev": null,
+        "root": [Circular],
+        "type": "tag",
+      },
+    ],
+    "name": "root",
+    "next": null,
+    "parent": null,
+    "prev": null,
+    "type": "root",
+  },
+  "_root": [Circular],
+  "length": 1,
+  "options": Object {
+    "decodeEntities": true,
+    "normalizeWhitespace": false,
+    "withDomLvl1": true,
+    "xmlMode": false,
+  },
+}
+`;
+
+exports[`<DescriptionWithLinks /> should render the passed component when the error & loading flags are not true 1`] = `
+initialize {
+  "0": Object {
+    "attribs": Object {},
+    "children": Array [
+      Object {
+        "attribs": Object {},
+        "children": Array [
+          Object {
+            "data": "Passed values: test, test2",
+            "next": null,
+            "parent": [Circular],
+            "prev": null,
+            "type": "text",
+          },
+        ],
+        "name": "h3",
+        "next": null,
+        "parent": null,
+        "prev": null,
+        "root": [Circular],
+        "type": "tag",
+      },
+    ],
+    "name": "root",
+    "next": null,
+    "parent": null,
+    "prev": null,
+    "type": "root",
+  },
+  "_root": [Circular],
+  "length": 1,
+  "options": Object {
+    "decodeEntities": true,
+    "normalizeWhitespace": false,
+    "withDomLvl1": true,
+    "xmlMode": false,
+  },
+}
+`;
